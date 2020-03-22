@@ -1,0 +1,12 @@
+<h1>Welcome to
+  <a href="https://luanotes.com/">luanotes.com</a>
+</h1>
+<hr>
+<h2>Authentication with Devise in Rails</h2>
+
+<% if user_signed_in? %>
+  <%= link_to "Log out", destroy_user_session_path, method: :delete %>
+<% else %>
+  <%= link_to "Sign up", new_user_registration_path %> |
+  <%= link_to "Log in", new_user_session_path %>
+<% end %>
