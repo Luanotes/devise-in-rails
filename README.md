@@ -12,3 +12,6 @@
 5. Usage: Sign up, Log in, Log out
 
 6. Conclusion
+
+
+### Read more in: https://luanotes.com/blogs/authentication-with-devise-in-rails
