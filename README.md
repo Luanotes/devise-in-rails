@@ -1,24 +1,14 @@
-# README
+## Authentication with Devise in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Table of Contents
+1. Introduction about Devise
 
-Things you may want to cover:
+2. Installing to Rails application
 
-* Ruby version
+3. Generate User model 
 
-* System dependencies
+4. Configure Devise
 
-* Configuration
+5. Usage: Sign up, Log in, Log out
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+6. Conclusion
